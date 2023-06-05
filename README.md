@@ -1,12 +1,12 @@
 <div align="center"> 
-    <img align="center" style="height: 180px; width: 850px" src='./assets/imLeila.gif'></img>
+    <img align="center" style="height: 200px; width: 850px" src='./assets/imLeila.gif'></img>
 </div>
    
 <br/>  
    
 <div align="center">
 <a href="https://github.com/LeyAylen6" target="_blank"> 
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="width: 150px; height: 50px; margin-right: 5px; margin-bottom: 5px; border-radius: 7%" /> 
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="width: 150px; height: 38px; margin-right: 5px; margin-bottom: 5px; border-radius: 50px" /> 
 </a> 
 <a href="https://linkedin.com/in/leilaaylensalguero" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="width: 150px; height: 25px margin-left: 5px; margin-bottom: 5px; border-radius: 7px" />
