@@ -1,5 +1,5 @@
 <div align="center"> 
-    <img align="center" style="height: 200px; width: 800px" src='./assets/imLeila.gif'></img>
+    <img align="center" style="height: 180px; width: 850px" src='./assets/imLeila.gif'></img>
 </div>
    
 <br/>  
@@ -25,7 +25,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<!-- <table><tr><td valign="top" width="50%"> -->
 
 <!-- - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)   -->
   
