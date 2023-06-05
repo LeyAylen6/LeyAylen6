@@ -6,10 +6,10 @@
    
 <div align="center">
 <a href="https://github.com/LeyAylen6" target="_blank"> 
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="width: 180px; height: 40px; margin-right: 5px; margin-bottom: 5px; border-radius: 7%" /> 
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="width: 150px; height: 30px; margin-right: 5px; margin-bottom: 5px; border-radius: 7%" /> 
 </a> 
 <a href="https://linkedin.com/in/leilaaylensalguero" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="width: 180px; height: 40px margin-left: 5px; margin-bottom: 5px; border-radius: 7px" />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="width: 150px; height: 25px margin-left: 5px; margin-bottom: 5px; border-radius: 7px" />
 </a>  
 </div>  
   
