@@ -4,7 +4,20 @@
    
 <br/>  
    
+const Ignacio = {
+  fullName: 'Ignacio Gimenez',
+  nickName: 'Nacho',
+  code: ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'Java', 'Go', 'Python'],
+  tools: ['React', 'Redux', 'Express', 'Node', 'postgreSQL', 'Firebase', 'Spring Boot', 'Gin']
+}
 
+## 🙋‍♀️ Let's Connect
+<p align="center">
+    <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	<a href="mailto:candida.noronha18@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/Candida18"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://linkedin.com/in/candida-ruth-noronha-b019101ab"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+</p>
 
 <div align="center">
     
@@ -13,13 +26,6 @@
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leiisalguero@gmail.com)
 
 </div>
-  
-<br/>
-
-### Glad to see you here!  
-I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
-
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
   
 <br/>  
 
