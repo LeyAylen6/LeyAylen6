@@ -3,21 +3,22 @@
 </div>
    
 <br/>  
-   
-const Ignacio = {
-  fullName: 'Ignacio Gimenez',
-  nickName: 'Nacho',
-  code: ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'Java', 'Go', 'Python'],
-  tools: ['React', 'Redux', 'Express', 'Node', 'postgreSQL', 'Firebase', 'Spring Boot', 'Gin']
-}
 
-## 🙋‍♀️ Let's Connect
 <p align="center">
     <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:leiisalguero@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/LeyAylen6"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://linkedin.com/in/leilaaylensalguero"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
+
+```js
+const Ignacio = {
+  fullName: 'Ignacio Gimenez',
+  nickName: 'Nacho',
+  code: ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'Java', 'Go', 'Python'],
+  tools: ['React', 'Redux', 'Express', 'Node', 'postgreSQL', 'Firebase', 'Spring Boot', 'Gin']
+}
+``` 
   
 <br/>  
 
