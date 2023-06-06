@@ -45,13 +45,18 @@ const Ignacio = {
 </div>  
 
 <br/>  
-
+	
+## Github Stats  
+<table><tr><td valign="top" width="50%">
 # Github Stats  
 
 <img src="https://github-readme-stats.vercel.app/api?username=LeyAylen6&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 105%"/>
 
+</td><td valign="top" width="50%">
+
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeyAylen6&hide_border=true&layout=compact" align="center" style="width: 95%" /></div>
 
+</td></tr></table>  
 <br/>  
 <br/>  
 
