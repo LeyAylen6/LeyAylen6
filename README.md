@@ -12,12 +12,20 @@
 </p>
 
 ```js
-const Ignacio = {
-  fullName: 'Ignacio Gimenez',
-  nickName: 'Nacho',
-  code: ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'Java', 'Go', 'Python'],
-  tools: ['React', 'Redux', 'Express', 'Node', 'postgreSQL', 'Firebase', 'Spring Boot', 'Gin']
-}
+const aboutMe = {
+    pronouns: "She" | "Her",
+    code: ["Javascript", "Java"],
+    askMeAbout: ["web dev", "tech", "app dev"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Express"],
+        },
+       	frontEnd: ["React", "Redux", "Css", "Html"],
+        databases: ["Sequelize"],
+    },
+    currentFocus: "No Focus point at this time",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
 ``` 
   
 <br/>  
@@ -25,14 +33,10 @@ const Ignacio = {
 <!-- - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)   -->
   
 - 🌱 I’m currently learning Java and Spring Boot
-  
-<br/>  
 
-<center>
-    <h1>Languages and Tools</h1>
-<center>
+##Languages and Tools
  
-<div align="center">  
+<!-- <div align="center">  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="80" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="80" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="80" /></a>  
@@ -43,23 +47,22 @@ const Ignacio = {
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="80" /></a>  
 <a href="https://mui.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="80" /></a>  
 </div>  
-
+ -->
 <br/>  
 	
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-# Github Stats  
+<!-- <table><tr><td valign="top" width="50%" color='white' > -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=LeyAylen6&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 105%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=LeyAylen6&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 50%"/>
 
-</td><td valign="top" width="50%">
+<!-- </td><td valign="top" width="50%"> -->
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeyAylen6&hide_border=true&layout=compact" align="center" style="width: 95%" /></div>
-
-</td></tr></table>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeyAylen6&hide_border=true&layout=compact" align="right" style="width: 45%" /></div>
+<!-- 
+</td></tr></table>   -->
 <br/>  
 <br/>  
-
+<!-- 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=LeyAylen6&&style=flat-square" align="center" />
-</div>  
+</div>   -->
