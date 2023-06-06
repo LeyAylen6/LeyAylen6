@@ -14,6 +14,7 @@
 ```js
 const aboutMe = {
     pronouns: "She" | "Her",
+    education: ["Full Stack Developer - Henry", "Tester QA Manual - MindHub", "Chemical Technician - Longobardi"]
     code: ["Javascript", "Java"],
     askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
@@ -23,7 +24,7 @@ const aboutMe = {
        	frontEnd: ["React", "Redux", "Css", "Html"],
         databases: ["Sequelize"],
     },
-    currentFocus: "No Focus point at this time",
+    hobbies: ["Dance", "sing", "outdoor walks"]
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ``` 
