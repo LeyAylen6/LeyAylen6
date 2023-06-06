@@ -22,7 +22,7 @@ const aboutMe = {
             js: ["Node", "Express"],
         },
        	frontEnd: ["React", "Redux", "Css", "Html"],
-        databases: ["Sequelize"],
+        databases: ["Sequelize", "PostgreSQL"],
     },
     hobbies: ["Dance", "sing", "outdoor walks"],
     funFact: "There are two ways to write error-free programs; only the third one works"
