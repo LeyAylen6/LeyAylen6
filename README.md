@@ -21,31 +21,12 @@ I’m a full-stack developer who has turned years of freelancing into a full-tim
 
 I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
   
-
 <br/>  
-
-
-## Rapidfire  
-<!-- <table><tr><td valign="top" width="50%"> -->
 
 <!-- - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)   -->
   
-
 - 🌱 I’m currently learning Java and Spring Boot
   
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-
-<!-- </td><td valign="top" width="50%"> -->
-
-<!-- <div align="center">
-<img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?resize=476%2C280&ssl=1" align="center" style="width: 100%" />
-</div>   -->
-
-<!-- </td></tr></table>   -->
-
 <br/>  
 
 <center>
@@ -66,7 +47,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <br/>  
 
-
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
@@ -79,20 +59,8 @@ I specialize in building robust backends that do all the heavy lifting for your 
 </td></tr></table>  
 
 <br/>  
-
-  
-
 <br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=LeyAylen6&&style=flat-square" align="center" />
 </div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
