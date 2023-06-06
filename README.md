@@ -4,23 +4,12 @@
    
 <br/>  
    
-<div align="center">
-<a href="https://github.com/LeyAylen6" target="_blank"> 
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="width: 150px; height: 38px; margin-right: 5px; margin-bottom: 5px; border-radius: 50px" /> 
-</a> 
-<a href="https://linkedin.com/in/leilaaylensalguero" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="width: 150px; height: 25px margin-left: 5px; margin-bottom: 5px; border-radius: 7px" />
-</a>  
-</div>  
+
 
 <div align="center">
-
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leilaaylensalguero)
-    
-[![image](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeyAylen6)
-    
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leiisalguero@gmail.com)
-  
+    [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leilaaylensalguero)  
+    [![image](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeyAylen6)  
+    [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leiisalguero@gmail.com) 
 </div>
   
 <br/>
