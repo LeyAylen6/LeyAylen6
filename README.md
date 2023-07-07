@@ -15,14 +15,13 @@
 const aboutMe = {
     pronouns: "She" | "Her",
     education: ["Full Stack Developer-Henry", "Tester QA Manual-MindHub", "Chemical Technician-Longobardi"],
-    code: ["Javascript"],
-    askMeAbout: ["web dev", "tech", "app dev"],
+    code: ["JavaScript"],
     technologies: {
         backEnd: {
-            js: ["Node", "Express"],
+            js: ["Node", "TypeScript", "Express"],
         },
-       	frontEnd: ["React", "Redux", "Css", "Html"],
-        databases: ["Sequelize", "PostgreSQL"],
+       	frontEnd: ["React", "Redux", "Css", "Html", "Chakra UI", "Material UI"],
+        databases: ["Sequelize", "TypeORM", "PostgreSQL"],
     },
     hobbies: ["Dance", "sing", "outdoor walks"],
     funFact: "There are two ways to write error-free programs; only the third one works"
