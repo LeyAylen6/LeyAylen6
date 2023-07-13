@@ -7,8 +7,8 @@
 <p align="center">
 	<a href="https://leila-salguero.vercel.app/?vercelToolbarCode=79pKbrxOt9tKESs"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:leiisalguero@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/LeyAylen6"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://linkedin.com/in/leilaaylensalguero"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<img src="./assets/celButton.png" alt="celphone"/></a>
+	<a href="https://linkedin.com/in/leilaaylensalguero"><img src="./assets/LinkedInButton.png" alt="LinkedIn"/></a>
 </p>
 
 ```js
