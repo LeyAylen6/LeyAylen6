@@ -66,32 +66,19 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <br/>  
 
 
-## Github Stats  
+# Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LeyAylen6&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 105%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=LeyAylen6&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%"/>
 
 </td><td valign="top" width="50%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeyAylen6&hide_border=true&layout=compact" align="center" style="width: 95%" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeyAylen6&hide_border=true&layout=compact" align="rigth" style="width: 90%" /></div>
 
 </td></tr></table>  
 
 <br/>  
 
-  
-
-<br/>  
-
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=LeyAylen6&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+    <img src="https://komarev.com/ghpvc/?username=LeyAylen6&&style=flat-square" align="center" />
+</div>
