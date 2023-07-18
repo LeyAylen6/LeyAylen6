@@ -30,7 +30,7 @@ const aboutMe = {
 
 <!-- - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)   -->
   
-- 🌱 I’m currently learning Java and Spring Boot
+- 🌱 I’m currently learning Java, Spring Boot and Lombok.
 
 <br/> 
 
