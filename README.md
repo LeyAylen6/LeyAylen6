@@ -8,7 +8,7 @@
 	<a href="https://leila-salguero.vercel.app/?vercelToolbarCode=79pKbrxOt9tKESs"><img src="./assets/portfolioButton" alt="Website" style="width: 210px" /></a>
 	<a href="mailto:leiisalguero@gmail.com"><img src="./assets/emailButton.jpeg" alt="Gmail" style="width: 230px" /></a>
 	<img src="./assets/celIButton.png" alt="celphone" style="width: 200px" />
-	<a href="https://linkedin.com/in/leilaaylensalguero"><img src="./assets/LinkedInButton.jpeg" alt="LinkedIn" style="width: 210px" /></a>
+	<a href="https://linkedin.com/in/leilaaylensalguero"><img src="./assets/LinkedInButton.jpeg" alt="LinkedIn" style="width: 200px" /></a>
 </p>
 
 ```js
