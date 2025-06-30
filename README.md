@@ -13,15 +13,18 @@
 
 ```js
 const aboutMe = {
+    role: "Backend Developer Ssr"
     pronouns: "She" | "Her",
-    education: ["Full Stack Developer-Henry", "Tester QA Manual-MindHub", "Chemical Technician-Longobardi"],
-    code: ["JavaScript"],
+    education: ["Full Stack Developer-Henry", "Tester QA Manual-MindHub"],
+    code: ["Java, JavaScript"],
     technologies: {
         backEnd: {
+            java: ["Spring Boot", "JPA"],
             js: ["Node", "TypeScript", "Express"],
         },
-       	frontEnd: ["React", "Redux", "Css", "Html", "Chakra UI", "Material UI"],
-        databases: ["Sequelize", "TypeORM", "PostgreSQL"],
+       	frontEnd: ["React", "Redux", "Css", "Html", "Chakra UI", "Material UI", "React-Query"],
+        databases: ["Sequelize", "TypeORM", "PostgreSQL", "MySQL", "SQLite"],
+	testing: ["JUnit", "Mokito", "Jest", "React-Testing-Library"]
     },
     hobbies: ["Dance", "sing", "outdoor walks"],
     funFact: "There are two ways to write error-free programs; only the third one works"
