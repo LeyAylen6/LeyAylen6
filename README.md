@@ -13,7 +13,7 @@
 
 ```js
 const aboutMe = {
-    role: "Backend Developer Ssr"
+    role: "Backend Developer Ssr",
     pronouns: "She" | "Her",
     education: ["Full Stack Developer-Henry", "Tester QA Manual-MindHub"],
     code: ["Java, JavaScript"],
