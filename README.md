@@ -22,7 +22,7 @@ const aboutMe = {
             java: ["Spring Boot", "JPA"],
             js: ["Node", "TypeScript", "Express"],
         },
-       	frontEnd: ["React", "Redux", "Css", "Html", "Chakra UI", "Material UI", "React-Query"],
+       	frontEnd: ["React", "Redux", "Css", "Html", "Chakra UI", "Material UI", "React-Query", "Angular"],
         databases: ["Sequelize", "TypeORM", "PostgreSQL", "MySQL", "SQLite"],
 	testing: ["JUnit", "Mokito", "Jest", "React-Testing-Library"]
     },
